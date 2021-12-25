@@ -1,0 +1,5 @@
+create library
+cargo new --lib libtest
+
+create common cargo
+cargo new tests
